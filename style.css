@@ -1,0 +1,34 @@
+h1{color: blue}
+p{
+	color: red
+}
+.container {
+	color: black;
+	background-color: aqua;
+}
+img {
+	height: 100px;
+	width: 100px;
+}
+body {
+	background-color: gray;
+}
+.new{
+	background-color: bisque;
+	color:black;
+	height: 300px;
+	width: 500px;
+}
+.left{
+	height: 500px;
+	width: 100px;
+	background-color: aqua;
+}
+.mid{
+	height: 100px;
+	width: 100px;
+}
+.right{
+	height: 100px;
+	width: 100px;
+}
